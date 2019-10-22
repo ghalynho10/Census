@@ -11,3 +11,4 @@ Password for all users is: esih12345
 - You can logout from a user to log in as another user
 - You can add someone's picture while saving their information as well
 - The application manages session so you don't have to log in each time
+- Passwords are encrypted in the database
