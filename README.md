@@ -13,3 +13,5 @@ Password for all users is: esih12345
 - You can add someone's picture while saving their information as well
 - The application manages session so you don't have to log in each time
 - Passwords are encrypted in the database
+
+Backend API: https://github.com/ghalynho10/census_api.git
